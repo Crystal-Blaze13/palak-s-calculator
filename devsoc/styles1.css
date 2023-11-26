@@ -8,6 +8,8 @@ h1{
     padding: 10px;
     margin:auto;
     border-radius: 7%;
+    border-style: solid;
+    border-color: orange;
 }
 .box{
     height:60px;
